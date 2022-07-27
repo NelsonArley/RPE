@@ -1,0 +1,24 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    background-image: url(../image/fondo22.jpg);
+    color: #fff;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.body_index{
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    background-image: url(../image/fondo22.jpg);
+    color: #fff;
+    font-family: Arial;
+    font-size: 12px;
+}
+h1 {
+    color: rgb(255, 0, 0);
+    font-family: verdana;
+    font-size: 300%;
+}
